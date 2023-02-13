@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/thekaailash" target="blank"><img src="https://img.shields.io/twitter/follow/thekaailash?logo=twitter&style=for-the-badge" alt="thekaailash" /></a> </p>
 
-- 🔭 I’m currently working on **Attendance Management**
-
 - 🌱 I’m currently learning **App Developement**
+
+- 🎯 Wants to Implement **CI/CD for Android**
 
 - ⚡ Fun fact **Apart from a developer, also a poet by a ❤️**
 
