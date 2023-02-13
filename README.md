@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQE_giiczc1EkQ/profile-displaybackgroundimage-shrink_350_1400/0/1627396715462?e=1671062400&v=beta&t=G--AHzn-JnAoCX523JbixpTn_HsbYFGSlsJ3I1Joj4U)](https://linkedin.com/in/thekaailashsharma)
+
 <h1 align="center">Hi 👋, I'm Kailash Sharma</h1>
 <h3 align="center">MAD Developer (Modern Android Developer) - A true Tech Fan. Innovation is outcome of a habit not a random act. To invent Tomorrow is a great achievement than the past</h3>
 
