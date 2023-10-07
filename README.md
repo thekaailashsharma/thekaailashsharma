@@ -1,6 +1,25 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35" height="35" /> I'm Kailash Sharma</h1>
-<h2> A dynamic Modern Android Developer, Builder and a Poet! </h2> <img align="right" src="https://github.com/thekaailashsharma/thekaailashsharma/assets/61358755/bf4839b7-3bee-43d3-b129-ffd750d8caf9" width="200" />
-<h3 align="left">My expertise lies in leveraging the power of Kotlin and Ktor to build robust and scalable backends that seamlessly integrate with captivating frontend experiences. Beyond my coding prowess, I'm a wordsmith at heart. Poetry has always been a creative outlet for me. Throughout my journey, I have excelled in hackathons.  I am always eager to embrace emerging technologies, acquire new skills, and push the boundaries of what's possible in software development.</h3>
+<h2> A dynamic Modern Android Developer, Builder and a Poet! </h2> <img align="right" src="https://github.com/thekaailashsharma/thekaailashsharma/assets/61358755/bf4839b7-3bee-43d3-b129-ffd750d8caf9" width="300" />
+<h3 align="left">
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="25" height="25" /> I’m currently learning **App Developement**
+
+- 🎯 Wants to Implement **CI/CD for Android**
+
+- ⚡ Fun fact **Apart from a developer, also a poet by a ❤️**
+
+- 🤝 I’m looking for help with **Android & iOS Developement**
+
+- 👨‍💻 All of my projects are available at [github.com/thekaailashsharma](github.com/thekaailashsharma)
+
+- 💬 Believes **Projects are only way to learn.**
+
+- 📫 Contact me **kailashps.1011@gmail.com**
+
+- 📄 Know about my experiences [linkedin.com/in/thekaailashsharma](linkedin.com/in/thekaailashsharma)
+
+- 😎 Find me anywhere, just search **thekaailashsharma**
+</h3>
 <h2> Together, let's can shape the future of technology <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="45" height="45" /> </h2> 
 
 ```mermaid
@@ -37,26 +56,6 @@ title My Hackathons Journey
       Taking a moment to celebrate: 7: You
 ```
 
-
-
-
-- 🌱 I’m currently learning **App Developement**
-
-- 🎯 Wants to Implement **CI/CD for Android**
-
-- ⚡ Fun fact **Apart from a developer, also a poet by a ❤️**
-
-- 🤝 I’m looking for help with **Android & iOS Developement**
-
-- 👨‍💻 All of my projects are available at [github.com/thekaailashsharma](github.com/thekaailashsharma)
-
-- 💬 Believes **Projects are only way to learn.**
-
-- 📫 Contact me **kailashps.1011@gmail.com**
-
-- 📄 Know about my experiences [linkedin.com/in/thekaailashsharma](linkedin.com/in/thekaailashsharma)
-
-- 😎 Find me anywhere, just search **thekaailashsharma**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
