@@ -19,7 +19,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" /> Find me anywhere, just search **thekaailashsharma**
 </h3>
-<h2> Together, let's can shape the future of technology <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="45" height="45" /> </h2> 
+<h2> Together, let's shape the future of technology <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="45" height="45" /> </h2> 
 
 ```mermaid
   journey
