@@ -73,6 +73,26 @@
       Taking a moment to celebrate: 7: You
 ```
 
+## Some other accomplishments
+```mermaid
+graph TD
+  %% Featured Achievements
+  feat[Featured]
+  feat -->|Official Blog & Website| Google-Play-Academy
+  feat -->|AndroidSpotlight| Android-Developers
+
+  %% Mentorship Roles
+  mentor[Mentorship]
+  mentor -->|GDP Lead| GDP-Lead
+  mentor -->|Flutter Forward Mentor| Flutter-Mentor
+
+  %% Speaking Engagements
+  speak[Speaking Engagements]
+  speak -->|Flutter Sparks| Flutter-Sparks
+  speak -->|GDG MAD Event| No-Speakers-No-Problem
+
+```
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
