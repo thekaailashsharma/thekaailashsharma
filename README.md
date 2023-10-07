@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Kailash Sharma</h1>
-<h3 align="center">MAD Developer (Modern Android Developer) - A true Tech Fan. Innovation is outcome of a habit not a random act. To invent Tomorrow is a great achievement than modifying the past</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thekaailashsharma" alt="thekaailashsharma" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/thekaailash" target="blank"><img src="https://img.shields.io/twitter/follow/thekaailash?logo=twitter&style=for-the-badge" alt="thekaailash" /></a> </p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35" height="35" /> I'm Kailash Sharma</h1>
+<h2> A dynamic Modern Android Developer, Builder and a Poet! </h2> <img align="right" src="https://github.com/thekaailashsharma/thekaailashsharma/assets/61358755/bf4839b7-3bee-43d3-b129-ffd750d8caf9" width="200" />
+<h3 align="left">My expertise lies in leveraging the power of Kotlin and Ktor to build robust and scalable backends that seamlessly integrate with captivating frontend experiences. Beyond my coding prowess, I'm a wordsmith at heart. Poetry has always been a creative outlet for me. Throughout my journey, I have excelled in hackathons.  I am always eager to embrace emerging technologies, acquire new skills, and push the boundaries of what's possible in software development.</h3>
+<h2> Together, let's can shape the future of technology <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="45" height="45" /> </h2> 
 
 ```mermaid
   journey
 title My Hackathons Journey
+
     section First Milestone - Solution Challenge 2023
       2000+ Competitors: 3: You
       Achieve Top 100 Global Ranking: 6: You
