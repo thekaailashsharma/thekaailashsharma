@@ -1,4 +1,35 @@
-
+```mermaid
+  journey
+title My Hackathons Journey
+    section First Milestone - Solution Challenge 2023
+      2000+ Competitors: 3: You
+      Achieve Top 100 Global Ranking: 6: You
+    section Mumbai Hacks Triumph
+      Mumbai's Largest Hackathon: 3: You
+      600+ Participants: 3: You
+      1st Prrize Winner: 7: You
+ section Google's Telangana Hackathon (Team Lead)
+      300+ Participants: 3: You
+      Getting into top 40: 4: You
+      Into Top 12 teams: 4: You
+      Finally into top 5: 5: You
+      Missing the top 3 position: 1: You
+      Featured by CNBC-TV18: 7: You
+```
+```mermaid
+  journey
+    section GenAIRush Buildathon (Team Lead)
+      Participate in GenAIRush Buildathon: 4: You
+      2000+ Applicants: 3: You
+      Attain Top 25 Position: 5: You
+    section HackOdisha 3.0 (Team Lead)
+      170+ Projects: 3: You
+      Attain Top 10 Position: 5: You
+    section Reflecting on the Journey
+      Learned to Handle Failures: 1: You
+      Created real world solutions: 5: You
+      Taking a moment to celebrate: 7: You
+```
 <h1 align="center">Hi 👋, I'm Kailash Sharma</h1>
 <h3 align="center">MAD Developer (Modern Android Developer) - A true Tech Fan. Innovation is outcome of a habit not a random act. To invent Tomorrow is a great achievement than modifying the past</h3>
 
