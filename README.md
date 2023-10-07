@@ -6,9 +6,9 @@
 
 - 🎯 Wants to Implement **CI/CD for Android**
 
-- ⚡ Fun fact **Apart from a developer, also a poet by a ❤️**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" /> Fun fact **Apart from a developer, also a poet by a ❤️**
 
-- 🤝 I’m looking for help with **Android & iOS Developement**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" /> I’m looking for help with **Android & iOS Developement**
 
 - 👨‍💻 All of my projects are available at [github.com/thekaailashsharma](github.com/thekaailashsharma)
 
@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [linkedin.com/in/thekaailashsharma](linkedin.com/in/thekaailashsharma)
 
-- 😎 Find me anywhere, just search **thekaailashsharma**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" /> Find me anywhere, just search **thekaailashsharma**
 </h3>
 <h2> Together, let's can shape the future of technology <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="45" height="45" /> </h2> 
 
