@@ -21,10 +21,27 @@
 
 <h3 align="center"> Together, let's shape the future of technology <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="45" height="45" /> </h3> 
 
+## Work Experience
+
+```mermaid
+  gantt
+    dateFormat  YYYY-MM-DD
+    section Fold Money
+    Android Developer Intern at Fold Money :a1, 2023-07-01, Present
+    section Fiberstory Communications
+    Android Developer Intern at Fiberstory Communications :a2, 2023-04-01, 2023-07-31
+    section Internshala
+    Technical Content Writer at Internshala :a3, 2023-04-01, Present
+    section Eascocare
+    Android Developer Intern at Eascocare :a4, 2023-02-01, 2023-05-31
+
+```
+
+
+
+## My Hackathon Journey
 ```mermaid
   journey
-title My Hackathons Journey
-
     section First Milestone - Solution Challenge 2023
       2000+ Competitors: 3: You
       Achieve Top 100 Global Ranking: 6: You
