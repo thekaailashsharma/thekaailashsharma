@@ -1,5 +1,16 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35" height="35" /> I'm Kailash Sharma</h1>
-<h2> A dynamic Modern Android Developer, Builder and a Poet! </h2> <img align="right" src="https://github.com/thekaailashsharma/thekaailashsharma/assets/61358755/bf4839b7-3bee-43d3-b129-ffd750d8caf9" width="300" />
+
+<h2 align="center"> A passionate builder democratising experiences. 🫶🏻 </h2> <br>
+<p align="center">
+  <a href="https://github.com/thekaailashsharma/thekaailashsharma/assets/61358755/9353efc7-0b4d-42d8-b9bc-dfb93edad9ac">
+    <img src="https://github.com/thekaailashsharma/thekaailashsharma/assets/61358755/9353efc7-0b4d-42d8-b9bc-dfb93edad9ac" alt="HiewAF9.md.png" border="0">
+  </a
+</p>
+
+<h3> A dynamic Modern Android Developer, Builder and a Poet! </h3> <img align="right" src="https://github.com/thekaailashsharma/thekaailashsharma/assets/61358755/bf4839b7-3bee-43d3-b129-ffd750d8caf9" width="300" />
+
+
+
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="25" height="25" />  I’m currently learning **App Developement**
 
